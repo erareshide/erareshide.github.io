@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About Me
-description: This is what I do.
+title: About Ely
+description: # This is what I do.
 background: '/img/bg-about.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed quisquam ut perspiciatis, repudiandae nulla animi iste vel, praesentium repellendus molestias aliquid consequatur, earum rem qui error voluptates eius enim consequuntur!
+![Ely Rareshide]('/img/ER.jpg')
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex alias, earum consectetur quia natus ducimus voluptate explicabo, hic porro reprehenderit, quasi? Tenetur ipsum distinctio laboriosam perspiciatis officiis dolore, architecto id.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam inventore aspernatur repellendus incidunt adipisci modi voluptates recusandae iste eligendi, repudiandae corporis quod aut, optio! Explicabo quaerat unde voluptatem! Itaque, eum!
+I am a historical archaeologist working on my PhD in the Department of Anthropology at the University of California, Santa Barbara. My overarching research interest is to understand when, why, and how people decide to reject, accept, or innovate as they navigate new intercultural and power dynamics, particularly in the context of colonialism. My current research focuses on the interactions between the colonial Dominican friars and Paipai at Mission San Vicente Ferrer in Baja California, Mexico. 
