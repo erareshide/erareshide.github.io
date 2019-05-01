@@ -1,7 +1,7 @@
 <!--Navigation-->
 
 <!--
-To add new links, follow the example below (and activate it it by removing the arrowy things!) Copy and paste as many times as needed, but bear in mind that the bar can get rather crowded quickly.
+To add new links, follow the example below and activate it it by removing the comments characters as shown in the lines above and below this block of text (refer to the README for more information about comments). Copy and paste as many times as needed, but bear in mind that the bar can get rather crowded quickly.
 -->
 
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
@@ -16,15 +16,23 @@ To add new links, follow the example below (and activate it it by removing the a
         <li class="nav-item">
           <a class="nav-link" href="{{"/" | relative_url }}">Home</a>
         </li>
+        <!-- link for "About" page -->
         <li class="nav-item">
           <a class="nav-link" href="{{"/about" | relative_url }}">About</a>
         </li>
+        <!-- link for Blog posts -->
         <li class="nav-item">
           <a class="nav-link" href="{{"/posts" | relative_url }}">Blog</a>
         </li>
-<!--
+        <!-- link for CV -->
         <li class="nav-item">
-          <a class="nav-link" href="http://example.com">link text</a>
+          <a class="nav-link" href="{{"/cv" | relative_url }}">CV</a>
+        </li>
+<!--
+This is the code to create a link in the Navigation Bar. Use hyphens instead of spaces between words in href
+= (e.g., my-adventures). Use only lower-case letters so that users can easily find your page in a web search without running into case-sensitive text problems. Replace "link text" with the name of the page as you want it to appear in the Navigation Bar.
+        <li class="nav-item">
+          <a class="nav-link" href="/my-adventures">link text</a>
         </li>
 -->
       </ul>
