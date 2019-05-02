@@ -58,7 +58,8 @@ B.A. in Spanish May 2002
 ## CONFERENCE PRESENTATIONS AND POSTERS
 
 Minerbi, Joanne and **Elisabeth Rareshide**
-<br p class="hangingindent"> 2019  Making Stone Tools to Connect with Past People: A Case Study in Active Learning about Lithics with the Fernandeño Tataviam Band of Mission Indians. Poster presented at the Annual Meeting of the Society for California Archaeology, Sacramento, California, March 7-10.<p>
+<br>
+<p class="hangingindent"> 2019  Making Stone Tools to Connect with Past People: A Case Study in Active Learning about Lithics with the Fernandeño Tataviam Band of Mission Indians. Poster presented at the Annual Meeting of the Society for California Archaeology, Sacramento, California, March 7-10.<p>
 
 **Rareshide, Elisabeth**
 
