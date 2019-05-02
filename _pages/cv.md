@@ -155,7 +155,7 @@ Tindal, Andrew, Clint Johnson, Marc LeBlanc, Keir Harman, <b>Elisabeth Rareshide
 <p class="hangingindent">  2008  Site-specific Adjustments to Wind Turbine Power Curves. Poster presented at the American Wind Energy Association WINDPOWER Conference, Houston, June 1-4.<p>
 
 
-## TEACHING EXPERIENCE
+<h2> TEACHING EXPERIENCE</h2>
 
 ### University of California, Santa Barbara (Santa Barbara, California)
 
