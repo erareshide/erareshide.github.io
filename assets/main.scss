@@ -73,3 +73,10 @@ table th {
 */
 
 // To see what the above does to tables, just remove those bits.
+
+// Hanging indentation for citations
+
+p.hangingindent {
+  padding-left:50px; // block indentation
+  text-indent: -20; // reduces indentation of first line
+}
