@@ -8,7 +8,7 @@ I have adapted the ["Clean Blog Jekyll Theme" by Start Bootstrap](https://github
 3. Once the files re on your computer, open the entire project with AtoM. You can do this from GitHub desktop by right-clicking the name of the repository, from a fresh window of AtoM (File > Add Project Folder), or by dragging the folder into the Atom icon in MacOS.
   * How are the files structured?
   * What seems to go where?
-4. Then, from the command line, go to that folder and start Jekyll with the command `bundle exec jekyll serve`. This will make a prompt with a a URL, which will be something like `http://127.0.0.1:4000/`. Visit this address to see your site. This is being served on your computer, rather than the Internet. To make it avaiable beyond your computer, you will need to enable GitHub Pages on the GitHub site. We'll do this later. For a reminder about how to use the command line, have a look at the [Programming Historian tutorial](https://programminghistorian.org/en/lessons/intro-to-bash) that I gave you in the first part of the course.
+4. Then, from the command line, go to that folder and start Jekyll with the command `bundle exec jekyll serve`. This will make a prompt with a a URL, which will be something like `http://127.0.0.1:4000/`. Visit this address to see your site. This is being served on your computer, rather than the Internet. To make it available beyond your computer, you will need to enable GitHub Pages on the GitHub site. We'll do this later. For a reminder about how to use the command line, have a look at the [Programming Historian tutorial](https://programminghistorian.org/en/lessons/intro-to-bash) that I gave you in the first part of the course.
 5. In Atom, Open the file called `_config.yml` and enter your details in the various fields.
 6. Customise other aspects of your site, add content, make it look like nice. **Make sure you save the files you edit after every change, so that you can see the effects in your browser.**
 7. Keep an eye on the terminal. **If you break something, the terminal will let you know, so you can undo the latest thing you did.**
@@ -28,6 +28,14 @@ Create a new markdown file in the `_pages` folder, making sure to include the he
 ### How do I add my own pictures?
 Copy them into the `img` folder, but make sure they have been optimised for the Internet. (For example, by running them through an application like [JPEGmini lite](https://www.jpegmini.com/), or a web app like [Reduce Images](https://www.reduceimages.com/)). To make them appear in the heading section of your pages and posts, change the paths in the YAML header (the bit between the sets of three dashes - `---` – at the top of the file) from the example files to your own.
 
+To change the photo on the home page, edit index.html.
+
+To add a picture within the text of a page or post, format it this way to link to a website:
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+Or this way to link to a picture in the img folder for your website:
+![Ely Rareshide](/img/ER.jpg)
+(The bit between the square brackets becomes the "Alt Text", or the text that appears when you hover over an image. Notice how the image source [the bit in parentheses] can reference a folder in your project or any image on the internet.)
+
 ### How do I edit the look and feel of my site (fonts, etc.)?
 By editing the `assets/main.scss`. I put instructions inside.
 
@@ -39,6 +47,10 @@ Replace the file called `index.html` with the file called `index(page-first).htm
 
 ### What happens if I break something?
 You can always undo the last thing you did and save the file again. If it all goes horribly wrong, you can replace broken files copying them from my repository, or by downloading the theme from it as a zip file, unzipping it on your computer, and replacing the broken files with fresh ones. Or you can fork the repository again and start from scratch. If you get completely stuck, see me in office hours.
+
+### How do I convert code into comments?
+Enclose the text that you want in comments like this: <!-- comments -->
+Note that you must close the comments with --> for the text to change into comments. The starting and ending comments characters can be on different lines, You do not need to comment out each line individually.
 
 ---
 
