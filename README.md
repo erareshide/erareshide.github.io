@@ -19,6 +19,9 @@ I have adapted the ["Clean Blog Jekyll Theme" by Start Bootstrap](https://github
 ### How do I use Markdown?
 Check the example blog post, both on the site and in the `_posts` folder.
 
+### How do I use HTML with Markdown?
+HTML formatting overrides Markdown formatting, so you will have to convert the formatting from Markdown to HTML.
+
 ### How do I add new blog posts?
 Create new markdown files in the `_posts` folder, making sure to include the header bit between the three lines (`---`). The easiest way is to create a copy of the example post I made for you and to edit it.
 
@@ -35,6 +38,9 @@ To add a picture within the text of a page or post, format it this way to link t
 Or this way to link to a picture in the img folder for your website:
 ![Ely Rareshide](/img/ER.jpg)
 (The bit between the square brackets becomes the "Alt Text", or the text that appears when you hover over an image. Notice how the image source [the bit in parentheses] can reference a folder in your project or any image on the internet.)
+
+### How do I add my own files (e.g., PDFs)?
+Create a new folder in the root directory of your username.github.io project. Add the files you want to post on your website. Format the links the same way you format the links for pictures, but change the directory location from "img" to the name of your new folder.
 
 ### How do I edit the look and feel of my site (fonts, etc.)?
 By editing the `assets/main.scss`. I put instructions inside.
