@@ -5,28 +5,28 @@ description: My education and professional experience
 background: '/img/bg-about.jpg'
 ---
 
-# Elisabeth Adrienne-Marie Rareshide
+<h1>  Elisabeth Adrienne-Marie Rareshide</h1>
 
 erareshide@ucsb.edu
 
-## EDUCATION
+<h2>  EDUCATION</h2>
 
-### University of California, Santa Barbara (Santa Barbara, California)
+<h3>  University of California, Santa Barbara (Santa Barbara, California)</h3>
 
 Graduate Student in Anthropology
 
 Overall GPA: 3.99/4.0
 
 
-### California State University, Northridge (Northridge, California)		
+<h3>  California State University, Northridge (Northridge, California)</h3>		
 
 Overall GPA: 4.00/4.0
 
 M.A. in Anthropology May 2016
 
-*Thesis Title:* Tongva Ritual Practice on San Clemente Island: Exploring the Origins of the Chinigchinich Religion
+<i>Thesis Title:</i> Tongva Ritual Practice on San Clemente Island: Exploring the Origins of the Chinigchinich Religion
 
-### Rice University (Houston, Texas)				
+<h3>  Rice University (Houston, Texas)</h3>
 
 Overall GPA: 3.55/4.0 					
 
@@ -34,9 +34,9 @@ B.S. in Mechanical Engineering May 2002
 
 B.A. in Spanish May 2002
 
-**Languages:** English and Spanish
+<b>Languages:</b> English and Spanish
 
-## GRANTS AND AWARDS
+<h2>  GRANTS AND AWARDS</h2>
 
 * UCSB Latin American and Iberian Studies Graduate Student Conference: Honorable Mention for Paper Presentation, 2018
 * University of California, Santa Barbara: Department of Anthropology Grad Slam, Third Place, 2017
@@ -45,7 +45,7 @@ B.A. in Spanish May 2002
 * California Pre-Doctoral Program, Honorable Mention, 2015
 * California State University, Northridge: Department of Anthropology Book Award, 2015
 
-## ARCHAEOLOGICAL FIELDWORK AND LABORATORY EXPERIENCE
+<h2>  ARCHAEOLOGICAL FIELDWORK AND LABORATORY EXPERIENCE</h2>
 
 *	Fundación Erigaie - Convento de San Francisco, Cartagena, Colombia, 2018
 *	University of California, Santa Barbara - El Montón, Santa Cruz Island (CA-SCRI-333), 2017
@@ -55,7 +55,7 @@ B.A. in Spanish May 2002
 *	Archaeology Southwest/University of Arizona Mule Creek Preservation Archaeology Field School - Dinwiddie Site, 2013
 *	Crow Canyon Archaeological Center: Archaeology Research Program - Basketmaker Communities Project, 2012
 
-## CONFERENCE PRESENTATIONS AND POSTERS
+<h2>  CONFERENCE PRESENTATIONS AND POSTERS</h2>
 
 Minerbi, Joanne and <b>Elisabeth Rareshide</b>
 <p class="hangingindent"> 2019  Making Stone Tools to Connect with Past People: A Case Study in Active Learning about Lithics with the Fernandeño Tataviam Band of Mission Indians. Poster presented at the Annual Meeting of the Society for California Archaeology, Sacramento, California, March 7-10.<p>
@@ -157,60 +157,60 @@ Tindal, Andrew, Clint Johnson, Marc LeBlanc, Keir Harman, <b>Elisabeth Rareshide
 
 <h2> TEACHING EXPERIENCE</h2>
 
-### University of California, Santa Barbara (Santa Barbara, California)
+<h3>  University of California, Santa Barbara (Santa Barbara, California)</h3>
 
-**Department of Anthropology**
+<b>Department of Anthropology</b>
 
-#### Teaching Assistant, Spring 2017 – present: Taught discussion sections. Graded student exams and term papers.
+<h4>  Teaching Assistant, Spring 2017 – present: Taught discussion sections. Graded student exams and term papers.</h4>
 
 *	ANTH 2 (Introductory Cultural Anthropology)
 * ANTH 3 (Introduction to Archaeology)
 * ANTH 131 (North American Indians)
 
-#### Reader, Fall 2016 – Winter 2017: Graded student exams and term papers. Proctored exam.
+<h4>  Reader, Fall 2016 – Winter 2017: Graded student exams and term papers. Proctored exam.</h4>
 
 *	ANTH 153T (Primate Behavior)
 * ANTH 113 (Indigenous People and the Nation State in the Americas)
 
-### California State University, Northridge (Northridge, California)
+<h3>  California State University, Northridge (Northridge, California)</h3>
 
-**Department of Anthropology**
+<b>Department of Anthropology</b>
 
-####	Instructional Student Assistant, Fall 2013 – Spring 2016: Graded and provided editing feedback on student essays and term papers. Developed editing code handout with descriptions of common grammar and punctuation errors. Proctored tests.
+<h4> 	Instructional Student Assistant, Fall 2013 – Spring 2016: Graded and provided editing feedback on student essays and term papers. Developed editing code handout with descriptions of common grammar and punctuation errors. Proctored tests.</h4>
 
 *	ANTH 308 (Women, Sex Roles, and Society)
 * ANTH 310 (Language and Culture)
 * ANTH 453 (Human Paleontology)
 * ANTH 490B (Seminar in Biological Anthropology: The Anthropology of Neandertals)
 
-## PROFESSIONAL EXPERIENCE
+<h2>  PROFESSIONAL EXPERIENCE</h2>
 
-### Santa Bárbara Mission Archive-Library, Santa Barbara, California
+<h3>  Santa Bárbara Mission Archive-Library, Santa Barbara, California</h3>
 
-**Intern,** Summer 2017
+<b>Intern,</b> Summer 2017
 *	Catalogued documents from the colonial period through the twentieth century. Researched the Lone Woman of San Nicolas Island to update museum exhibit.
 
-### GL Garrad Hassan (formerly Garrad Hassan America, Inc.), San Diego, California
+<h3>  GL Garrad Hassan (formerly Garrad Hassan America, Inc.), San Diego, California</h3>
 
-**Senior Engineer,** 2011 – 2013
+<b>Senior Engineer,</b> 2011 – 2013
 
-**Project Engineer,** 2006 – 2011
-*	**Research:** Researched effects of complex wind regimes on wind turbine performance. Presented results at 2008 and 2009 American Wind Energy Association WINDPOWER Conferences. Supported research of wind turbine performance measurement using remote sensing technologies for 2010 American Wind Energy Association WINDPOWER Conference.
-*	**Teaching & Training:** Taught over 20 clients two-day training course on principles and methods of wind turbine power performance measurement. Advised clients on technical requirements of power curve warranties. Developed succinct introduction to power performance measurement for new clients. Trained employees on power performance analysis and reporting, power curve warranty assessment, meteorological tower inspection, and data logger wiring and programming.
-*	**Projects:** Managed quality control of analyses and reports for North American Power Performance Measurements Department. Coordinated standardization of tools and procedures for global Power Performance Measurements Department. Developed quality procedure documentation for ISO 9001 and ISO 17025 certification of Power Performance Measurements Department. Conducted IEC 61400-12-1 Standard tests of over 60 wind turbines at over 15 projects to determine compliance with manufacturers’ warranty agreements with project owners. Coordinated installation of equipment with project owners, turbine manufacturers, and meteorological tower installers. Inspected meteorological measurement equipment. Conducted site calibration of wind turbine locations. Created GIS maps of wind farms.
+<b>Project Engineer,</b> 2006 – 2011
+*	<b>Research:</b> Researched effects of complex wind regimes on wind turbine performance. Presented results at 2008 and 2009 American Wind Energy Association WINDPOWER Conferences. Supported research of wind turbine performance measurement using remote sensing technologies for 2010 American Wind Energy Association WINDPOWER Conference.
+*	<b>Teaching & Training:</b> Taught over 20 clients two-day training course on principles and methods of wind turbine power performance measurement. Advised clients on technical requirements of power curve warranties. Developed succinct introduction to power performance measurement for new clients. Trained employees on power performance analysis and reporting, power curve warranty assessment, meteorological tower inspection, and data logger wiring and programming.
+*	<b>Projects:</b> Managed quality control of analyses and reports for North American Power Performance Measurements Department. Coordinated standardization of tools and procedures for global Power Performance Measurements Department. Developed quality procedure documentation for ISO 9001 and ISO 17025 certification of Power Performance Measurements Department. Conducted IEC 61400-12-1 Standard tests of over 60 wind turbines at over 15 projects to determine compliance with manufacturers’ warranty agreements with project owners. Coordinated installation of equipment with project owners, turbine manufacturers, and meteorological tower installers. Inspected meteorological measurement equipment. Conducted site calibration of wind turbine locations. Created GIS maps of wind farms.
 
-### AWS Truepower, LLC (formerly AWS Truewind, LLC), Albany, New York
+<h3>  AWS Truepower, LLC (formerly AWS Truewind, LLC), Albany, New York</h3>
 
-**Project Engineer,** 2003 – 2006
+<b>Project Engineer,</b> 2003 – 2006
 
-*	**Ontario – Assistant Project Manager:** Comprehensively supported wind farm bid proposals for RFPs I and II in which three projects totaling 238.5 MW were approved for construction. Developed wind turbine layouts based on wind resource, cost of energy, zoning setbacks, noise regulations, construction constraints, and turbine specifications. Analyzed relative value of various wind turbine models. Modeled noise propagation characteristics to determine compliance with Ontario noise regulations. Interfaced directly with client regarding layout design questions, project documentation, and coordination of GIS information. Trained others on principles of wind turbine layout design. Coordinated energy production reports.
-*	**Quebec – Project Assistant:** Designed wind turbine layouts for two wind farms totaling 108 MW based on energy production potential, setback regulations, and construction costs. Analyzed the impact of site terrain on compliance with IEC 61400-12 Standard for warranty verification. Optimized meteorological tower placement for warranty verification.
-*	**Minnesota – Project Assistant:** Conducted IEC 61400-12 Standard analysis of energy production of four GE 1.5 MW wind turbines in 98 MW wind farm to determine compliance with manufacturer’s warranty agreement with project owner. Developed comprehensive uncertainty analysis for power performance verification. Wrote report detailing analysis methods and conclusions that became standard for future projects.
+*	<b>Ontario – Assistant Project Manager:</b> Comprehensively supported wind farm bid proposals for RFPs I and II in which three projects totaling 238.5 MW were approved for construction. Developed wind turbine layouts based on wind resource, cost of energy, zoning setbacks, noise regulations, construction constraints, and turbine specifications. Analyzed relative value of various wind turbine models. Modeled noise propagation characteristics to determine compliance with Ontario noise regulations. Interfaced directly with client regarding layout design questions, project documentation, and coordination of GIS information. Trained others on principles of wind turbine layout design. Coordinated energy production reports.
+*	<b>Quebec – Project Assistant:</b> Designed wind turbine layouts for two wind farms totaling 108 MW based on energy production potential, setback regulations, and construction costs. Analyzed the impact of site terrain on compliance with IEC 61400-12 Standard for warranty verification. Optimized meteorological tower placement for warranty verification.
+*	<b>Minnesota – Project Assistant:</b> Conducted IEC 61400-12 Standard analysis of energy production of four GE 1.5 MW wind turbines in 98 MW wind farm to determine compliance with manufacturer’s warranty agreement with project owner. Developed comprehensive uncertainty analysis for power performance verification. Wrote report detailing analysis methods and conclusions that became standard for future projects.
 
-## PUBLIC OUTREACH
+<h2>  PUBLIC OUTREACH</h2>
 
-### Tataviam Lithics: The Making of Stone Artifacts Workshop
-**Fernandeño Tataviam Band of Mission Indians**
+<h3>  Tataviam Lithics: The Making of Stone Artifacts Workshop</h3>
+<b>Fernandeño Tataviam Band of Mission Indians</b>
 
 December 17, 2017 (In-service professional lithics seminar)
 
@@ -220,7 +220,7 @@ March 25, 2017 (Family-oriented workshop)
 
 *	Conducted in-service professional lithics seminar for cultural monitors and family-oriented workshops on making stone tools and artifacts. Developed presentations and hands-on stations. Coordinated live flintknapping demonstrations with the opportunity for participants to make flakes as souvenirs of the workshops.
 
-## SERVICE AND ACTIVITIES
+<h2>  SERVICE AND ACTIVITIES</h2>
 
 *	Teaching Archaeology Interest Group (Society for American Archaeology): Co-Chair, 2019
 *	University of California, Santa Barbara: Anthropology Graduate Student Association, Secretary, 2017-present
