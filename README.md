@@ -26,7 +26,7 @@ HTML formatting overrides Markdown formatting, so you will have to convert the f
 Create new markdown files in the `_posts` folder, making sure to include the header bit between the three lines (`---`). The easiest way is to create a copy of the example post I made for you and to edit it.
 
 ### How do I add new pages?
-Create a new markdown file in the `_pages` folder, making sure to include the header bit between the three lines (`---`). The easiest way, again, is to create a copy of an existing file, such as `about.md`.
+Create a new markdown file in the `_pages` folder, making sure to include the header bit between the three lines (`---`). The easiest way, again, is to create a copy of an existing file, such as `about.md`. To add a link to this page on the homepage, follow the instructions below for the navigation menu.
 
 ### How do I add my own pictures?
 Copy them into the `img` folder, but make sure they have been optimised for the Internet. (For example, by running them through an application like [JPEGmini lite](https://www.jpegmini.com/), or a web app like [Reduce Images](https://www.reduceimages.com/)). To make them appear in the heading section of your pages and posts, change the paths in the YAML header (the bit between the sets of three dashes - `---` – at the top of the file) from the example files to your own.
@@ -40,7 +40,9 @@ Or this way to link to a picture in the img folder for your website:
 (The bit between the square brackets becomes the "Alt Text", or the text that appears when you hover over an image. Notice how the image source [the bit in parentheses] can reference a folder in your project or any image on the internet.)
 
 ### How do I add my own files (e.g., PDFs)?
-Create a new folder in the root directory of your username.github.io project. Add the files you want to post on your website. Format the links the same way you format the links for pictures, but change the directory location from "img" to the name of your new folder.
+Create a new folder in the root directory of your username.github.io project. Add the files you want to post on your website. Format the links the same way you format the links for pictures, but change the directory location from "img" to the name of your new folder. For example, the following HTML code would create a link to the file "Rareshide_MA-Thesis_FINAL.pdf" in the folder "PDF":
+
+<a href="/pdf/Rareshide_MA-Thesis_FINAL.pdf">Tongva Ritual Practice on San Clemente Island: Exploring the Origins of the Chinigchinich Religion</a>
 
 ### How do I edit the look and feel of my site (fonts, etc.)?
 By editing the `assets/main.scss`. I put instructions inside.
