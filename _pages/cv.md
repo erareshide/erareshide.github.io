@@ -60,98 +60,61 @@ B.A. in Spanish May 2002
 <p class="spaceremoval">Minerbi, Joanne and <b>Elisabeth Rareshide</b></p>
 <p class="hangingindent"> 2019  Making Stone Tools to Connect with Past People: A Case Study in Active Learning about Lithics with the Fernandeño Tataviam Band of Mission Indians. Poster presented at the Annual Meeting of the Society for California Archaeology, Sacramento, California, March 7-10.</p>
 
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2019  The Missionaries’ Job Evaluations: Assessing the Biographical Sketches of the Alta California Missionaries by Father Presidents Vicente Francisco de Sarría and Mariano Payeras. Paper presented at California Missions Conference, San Diego, California, February 15-17.</p>
 
-
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2018  Remembering the Lone Woman of San Nicolas Island: Addressing Conflicting Narratives in the Museum Exhibit at Mission Santa Barbara. Paper presented at the UCSB Latin American and Iberian Studies Graduate Student Conference, Santa Barbara, May 18-19.</p>
 
-
-Minerbi, Joanne and <b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval">Minerbi, Joanne and <b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2018  Making Stone Tools to Connect with Past People: A Case Study in Active Learning about Lithics with the Fernandeño Tataviam Band of Mission Indians. Poster presented at the Annual Meeting of the Society for American Archaeology, Washington, DC, April 11-15.</p>
 
-
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2018  Cognition and Conversion in Alta California: Investigating the Spanish Missionary Boscana’s Perspective on the Chinigchinich Religion. Paper presented at the Borderlands International Graduate Student Conference, Santa Barbara, April 6-8.</p>
 
-
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2018  Outside of the Reach of the Mission Bell: Tongva Ritual Practice on San Clemente Island. Paper presented at the Society for Historical Archaeology Conference, New Orleans, January 3-8.</p>
 
-
-Minerbi, Joanne and <b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval">Minerbi, Joanne and <b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2017  To Be a Scholar Is to Be Relevant: Sharing Knowledge with the Public. Paper presented at California State University Association for Student Anthropologists Conference, Los Angeles, April 29.</p>
 
-
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2017  Outside of the Reach of the Mission Bell: Chinigchinich Ritual Practice among the Tongva during the Mission Period in Alta California (AD 1769-1834). Paper presented at University of California, Santa Barbara, Grad Slam, Santa Barbara, April 10-14.</p>
 
-
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2017  Chinigchinich Ritual Practice Among the Tongva: Exploring Patterns of Colonial Consumption and Revitalization. Paper presented at the Annual Meeting of the Society for American Archaeology, Vancouver, March 29 - April 2.</p>
 
-
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2017  Outside of the Reach of the Mission Bell: Chinigchinich Ritual Practice among the Tongva during the Mission Period in Alta California (AD 1769-1834). Paper presented at University of California, Santa Barbara, Department of Anthropology Grad Slam, Santa Barbara, March 3.</p>
 
-
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2017  “As on all the feast days of the Indians, dancing was the principal ceremony”: Chinigchinich Ritual Practice Among the Tongva During the Mission Period. Paper presented at California Missions Conference, Solvang, February 17-19.</p>
 
-
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2016  Outside of the Reach of the Mission Bell: Tongva Ritual Practice on San Clemente Island. Paper presented at American Society for Ethnohistory Conference, Nashville, November 9-12.</p>
 
-
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2016  Tongva Ritual Practice on San Clemente Island: Reanalysis of Religious Dynamics during the Colonial Period. Paper presented at the Annual Meeting of the Society for American Archaeology, Orlando, April 6-10.</p>
 
-
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2016  Tongva Ritual Practice on San Clemente Island: Diachronic Analysis of Colonial Religious Dynamics Using Shell Beads. Paper presented at the Annual Meeting of the Society for California Archaeology, Ontario, March 10-13.</p>
 
-
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2016  Outside of the Reach of the Mission Bell: Tongva Ritual Practice on San Clemente Island. Paper presented at the California Missions Conference, San Juan Bautista, February 12-14.</p>
 
-
-<b>Elisabeth Rareshide</b>
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b></p>
 <p class="hangingindent">  2015  Legacy Collections in Public Education: The Chumash Tour at the Leonis Adobe Museum. Paper presented at the Annual Meeting of the Society for American Archaeology, San Francisco, April 15-19.</p>
 
-
-<b>Elisabeth Rareshide</b>, Robert Campbell, Alexandre Delwart, Luis Granada, Andreas Mark
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b>, Robert Campbell, Alexandre Delwart, Luis Granada, Andreas Mark</p>
 <p class="hangingindent">  2013  Evaluation of Changes to Site Calibration Procedure in Second Edition of IEC 61400 12 1 Standard. Poster presented at the American Wind Energy Association WINDPOWER Conference, Chicago, May 5-8.</p>
 
-
-Jaynes, Daniel, AnneMarie Graves, <b>Elisabeth Rareshide</b>, and Amit Bohara
-
+<p class="spaceremoval">Jaynes, Daniel, AnneMarie Graves, <b>Elisabeth Rareshide</b>, and Amit Bohara</p>
 <p class="hangingindent">  2010  Investigation of Turbine Power Performance Using Remote Sensing Technologies. Paper presented at the American Wind Energy Association WINDPOWER Conference, Dallas, May 23-26.</p>
 
-
-<b>Elisabeth Rareshide</b>, Andrew Tindal, Clint Johnson, AnneMarie Graves, Erin Simpson, James Bleeg, Tracey Harris, and Danny Schoborg
-
+<p class="spaceremoval"><b>Elisabeth Rareshide</b>, Andrew Tindal, Clint Johnson, AnneMarie Graves, Erin Simpson, James Bleeg, Tracey Harris, and Danny Schoborg</p>
 <p class="hangingindent">  2009  Effects of Complex Wind Regimes on Turbine Performance. Paper presented at the American Wind Energy Association WINDPOWER Conference, Chicago, May 4-7.</p>
 
-
-Tindal, Andrew, Clint Johnson, Marc LeBlanc, Keir Harman, <b>Elisabeth Rareshide</b>, and AnneMarie Graves
-
+<p class="spaceremoval">Tindal, Andrew, Clint Johnson, Marc LeBlanc, Keir Harman, <b>Elisabeth Rareshide</b>, and AnneMarie Graves</p>
 <p class="hangingindent">  2008  Site-specific Adjustments to Wind Turbine Power Curves. Poster presented at the American Wind Energy Association WINDPOWER Conference, Houston, June 1-4.</p>
 
 
