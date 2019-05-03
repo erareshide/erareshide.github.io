@@ -74,6 +74,12 @@ table th {
 
 // To see what the above does to tables, just remove those bits.
 
+// Remove extra space after paragraph
+
+p.spaceremoval {
+  padding-bottom: -10px;
+}
+
 // Hanging indentation for citations
 
 p.hangingindent {
