@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Elisabeth (Ely) Rareshide
+description: This website is currently under construction. Come back soon for updates.
 background: '/img/MissionSanVicenteFerrer.jpg'
 ---
 
