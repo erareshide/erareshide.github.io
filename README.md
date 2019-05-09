@@ -22,6 +22,8 @@ Check the example blog post, both on the site and in the `_posts` folder.
 ### How do I use HTML with Markdown?
 HTML formatting overrides Markdown formatting, so you will have to convert the formatting from Markdown to HTML.
 
+These are most of the formatting options built into Jekyll, but you might want to do more specialised things. For instance, you might want to insert a picture aligned to one side of the page. Or you might like to insert a map from Mapbox. For this you will need to use HTML. We will cover this in greater detail later on. For now, [here is an excellent guide to HTML](https://www.w3schools.com/html/).
+
 ### How do I add new blog posts?
 Create new markdown files in the `_posts` folder, making sure to include the header bit between the three lines (`---`). The easiest way is to create a copy of the example post I made for you and to edit it.
 
