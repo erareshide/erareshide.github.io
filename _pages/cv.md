@@ -2,7 +2,7 @@
 layout: page
 title: CV
 description: My education and professional experience
-background: '/img/bg-about.jpg'
+background: '/img/MissionSanVicenteFerrer.jpg'
 ---
 
 <h1>  Elisabeth Adrienne-Marie Rareshide</h1>
