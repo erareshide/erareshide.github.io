@@ -2,7 +2,7 @@
 layout: page
 title: About Ely
 description: # This is what I do.
-background: '/img/bg-about.jpg'
+background: '/img/MissionSanVicenteFerrer.jpg'
 ---
 
 ![Ely Rareshide](/img/ER.jpg)
