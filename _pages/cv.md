@@ -24,7 +24,7 @@ Overall GPA: 4.00/4.0
 
 M.A. in Anthropology May 2016
 
-<i>Thesis Title:</i> <a href="/pdf/Rareshide_MA-Thesis_FINAL.pdf">Tongva Ritual Practice on San Clemente Island: Exploring the Origins of the Chinigchinich Religion</a>
+<i>Thesis Title:</i> <a href="/PDF/Rareshide_MA-Thesis_FINAL.pdf">Tongva Ritual Practice on San Clemente Island: Exploring the Origins of the Chinigchinich Religion</a>
 
 <h3>  Rice University (Houston, Texas)</h3>
 
