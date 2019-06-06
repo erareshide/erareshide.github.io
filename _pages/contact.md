@@ -11,4 +11,4 @@ University of California, Santa Barbara
 
 Santa Barbara, CA 93106-3210
 
-erareshide@ucsb.edu
+<a href="mailto:erareshide@ucsb.edu">erareshide@ucsb.edu</a>
