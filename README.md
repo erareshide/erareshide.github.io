@@ -59,8 +59,8 @@ Replace the file called `index.html` with the file called `index(page-first).htm
 You can always undo the last thing you did and save the file again. If it all goes horribly wrong, you can replace broken files copying them from my repository, or by downloading the theme from it as a zip file, unzipping it on your computer, and replacing the broken files with fresh ones. Or you can fork the repository again and start from scratch. If you get completely stuck, see me in office hours.
 
 ### How do I convert code into comments?
-Enclose the text that you want in comments like this: <!-- comments -->
-Note that you must close the comments with --> for the text to change into comments. The starting and ending comments characters can be on different lines, You do not need to comment out each line individually.
+For HTML, enclose the text that you want in comments like this: <!-- comments -->
+Note that you must close the comments with --> for the text to change into comments. The starting and ending comments characters can be on different lines; you do not need to comment out each line individually.
 
 ---
 
